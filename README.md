@@ -147,6 +147,4 @@ Spotify API → Lambda → S3 (raw) → Glue Job (ETL) → S3 (transformed) → 
 
 ## 🧠 Author
 
-**Your Name Here**  
-_Data Engineering Enthusiast | Cloud Builder | PySpark Ninja_  
-[LinkedIn Profile] · [GitHub Profile]
+Aakash Patel
